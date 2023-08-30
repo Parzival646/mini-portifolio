@@ -158,7 +158,7 @@ img {
 .profile__social{
   display: flex;
   justify-content: center;
-  column-gap: 75rem;
+  column-gap: .75rem;
 }
 
 .profile__social-link{
