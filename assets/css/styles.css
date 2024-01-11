@@ -369,7 +369,7 @@ img {
 }
 
 .filters__activate[data-content]{
-  dis
+  display: grid;
 }
 
 /* Activate button filter */
