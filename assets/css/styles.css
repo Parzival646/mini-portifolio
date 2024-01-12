@@ -373,7 +373,9 @@ img {
 }
 
 /* Activate button filter */
-
+.filters-tab-active{
+  background-color: var(--body-color);
+}
 
 /*=============== FOOTER ===============*/
 
