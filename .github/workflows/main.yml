@@ -1,0 +1,7 @@
+RewriteEngine On
+# Identifica se HTTPS não está ativado
+RewriteCond %{HTTPS} !=on [OR]
+# Verifica se o domínio é diferente de www.seudominio.com.br
+RewriteCond %{HTTP_HOST} !=www.seudominio.com.br
+# Redireciona para o endereço correto
+RewriteRule ^(.*)$ https://www.seudominio.com.br/$1 [L,R=301]
