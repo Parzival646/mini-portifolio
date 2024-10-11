@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Portfolio",
+    "description": "",
+    "home_page_url": "https://github.com/Parzival646/mini-portifolio",
+    "feed_url": "https://github.com/Parzival646/mini-portifolio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Thayler"
+    },
+    "items": [
+        {
+            "id": "https://github.com/Parzival646/mini-portifolio/como-escolher-o-curso-correto.html",
+            "url": "https://github.com/Parzival646/mini-portifolio/como-escolher-o-curso-correto.html",
+            "title": "Como escolher o curso correto.",
+            "author": {
+                "name": "Thayler"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-11T11:56:03-03:00",
+            "date_modified": "2024-10-11T11:56:03-03:00"
+        }
+    ]
+}
