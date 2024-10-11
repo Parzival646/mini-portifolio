@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://github.com/Parzival646/mini-portifolio/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://thayler.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://github.com/Parzival646/mini-portifolio/</loc>
+<loc>https://thayler.com/</loc>
 </url>
 <url>
-<loc>https://github.com/Parzival646/mini-portifolio/como-escolher-o-curso-correto.html</loc>
+<loc>https://thayler.com/como-escolher-o-curso-correto.html</loc>
 <lastmod>2024-10-11T11:56:03-03:00</lastmod>
 </url>
 </urlset>

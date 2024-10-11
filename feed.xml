@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Portfolio</title>
-    <link href="https://github.com/Parzival646/mini-portifolio/feed.xml" rel="self" />
-    <link href="https://github.com/Parzival646/mini-portifolio" />
+    <link href="https://thayler.com/feed.xml" rel="self" />
+    <link href="https://thayler.com" />
     <updated>2024-10-11T11:56:03-03:00</updated>
     <author>
         <name>Thayler</name>
     </author>
-    <id>https://github.com/Parzival646/mini-portifolio</id>
+    <id>https://thayler.com</id>
 
     <entry>
         <title>Como escolher o curso correto.</title>
         <author>
             <name>Thayler</name>
         </author>
-        <link href="https://github.com/Parzival646/mini-portifolio/como-escolher-o-curso-correto.html"/>
-        <id>https://github.com/Parzival646/mini-portifolio/como-escolher-o-curso-correto.html</id>
+        <link href="https://thayler.com/como-escolher-o-curso-correto.html"/>
+        <id>https://thayler.com/como-escolher-o-curso-correto.html</id>
 
         <updated>2024-10-11T11:56:03-03:00</updated>
             <summary></summary>
